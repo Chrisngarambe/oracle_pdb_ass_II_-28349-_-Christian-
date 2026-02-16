@@ -48,19 +48,23 @@ A second PDB was also created to be deleted to teach us how to fully delete a PD
 
 
 
-**TASK 3: Oracle Enterprise Managger (OEM) Configuration**
+**TASK 3: Oracle Enterprise Manager (OEM) Configuration**
 
 
 Oracle Enterprise Manager was configured as well to monitor and manage the created PDBs.
 
-<img width="479" height="536" alt="image" src="https://github.com/user-attachments/assets/488f9444-dadc-4dac-a374-392663f3c3b7" />
-
 
 <img width="458" height="323" alt="OEM configuration" src="https://github.com/user-attachments/assets/1ca0fc9f-9f47-402e-b518-0da64fca0542" />
+
+
+<img width="479" height="536" alt="image" src="https://github.com/user-attachments/assets/488f9444-dadc-4dac-a374-392663f3c3b7" />
+
 
 uses User name sys and password 123 so as to be able to access OEM
 
 <img width="871" height="450" alt="image" src="https://github.com/user-attachments/assets/1c39e165-6765-4c58-98c7-9d27c71e3fff" />
+
+
 
 
 
